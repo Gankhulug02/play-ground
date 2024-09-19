@@ -12,6 +12,6 @@
   },
   "aliases": {
     "components": "./src/components",
-    "utils": "../ui/src/lib/utils.tsx"
+    "utils": "@repo/ui/utils"
   }
 }
