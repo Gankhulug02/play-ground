@@ -1,5 +1,10 @@
+import { Button } from '@repo/ui/components/ui/button';
 import Image from 'next/image';
 
 export default function Home() {
-  return <div className="">{/* <Button>asd</Button> */}</div>;
+  return (
+    <div className="">
+      <Button>Hello</Button>
+    </div>
+  );
 }
